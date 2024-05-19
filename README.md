@@ -1,8 +1,6 @@
 # Celia Sallet Graphic Designer/Web Developer
 
-#### Hey I'm a graphic designer and visual artist who got hooked on coding 
-#### while working on installations. I tend to nerd out big time when it
-#### comes to my passions, it sparked this thirst to learn more.
+#### Hey I'm a graphic designer and visual artist who got hooked on coding while working on installations. I tend to nerd out big time when it comes to my passions, it sparked this thirst to learn more.
  
 #### ***Super stoked for this training journey !***
 
@@ -39,7 +37,11 @@ perspective.
 + *Sharing good vibes and respecting each other*
 + *Working at the same pace and helping one another if it's not the case*
 
-![Mon-Gif-pref](https://giphy.com/gifs/poker-brandi-glanville-kf4qoHRDvbAoE)
+![Mon-gif-pref]
+<llowFullScreen><https://giphy.com/gifs/poker-brandi-glanville-kf4qoHRDvbAoE")
+
+
+
  
 
 
