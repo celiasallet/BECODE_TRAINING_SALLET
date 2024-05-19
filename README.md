@@ -37,4 +37,4 @@ perspective.
 + *Sharing good vibes and respecting each other*
 + *Working at the same pace and helping one another if it's not the case*
 
-![Mon-gif-pref](https://giphy.com/gifs/poker-brandi-glanville-kf4qoHRDvbAoE media.giphy.com)
+![Markdown](https://giphy.com/embed/dhjJRAs2ZbWtrYvSUT)
