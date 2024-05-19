@@ -37,4 +37,4 @@ perspective.
 + *Sharing good vibes and respecting each other*
 + *Working at the same pace and helping one another if it's not the case*
 
-![Markdown](https://giphy.com/embed/dhjJRAs2ZbWtrYvSUT)
+![Markdown](https://media.giphy.com/media/dhjJRAs2ZbWtrYvSUT/giphy.gif)
