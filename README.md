@@ -1,4 +1,4 @@
-# Celia Sallet Graphic Designer/Web Developer
+# Celia Sallet - Graphic Designer/Web Developer
 
 #### Hey I'm a graphic designer and visual artist who got hooked on coding while working on installations. I tend to nerd out big time when it comes to my passions, it sparked this thirst to learn more.
  
@@ -38,3 +38,4 @@ perspective.
 + *Working at the same pace and helping one another if it's not the case*
 
 ![Markdown](https://media.giphy.com/media/dhjJRAs2ZbWtrYvSUT/giphy.gif)
+
