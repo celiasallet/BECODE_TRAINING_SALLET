@@ -19,7 +19,7 @@
 
 ## Data Transmission:
 
-**Packet Switching:** Information sent over the internet is broken down into smaller pieces called packets. These packets travel independently across the network through various routes and are reassembled at their destination.
+**Packet Switching:** The information sent over the internet is broken down into smaller pieces called packets. These packets travel independently across the network through various routes and are reassembled at their destination.
 **Routers:** Routers are devices that direct packets through the most efficient paths on the internet. They check the destination IP address of each packet and forward it accordingly, often passing through multiple routers before reaching the final destination.
 
 ***Example - Sending an Email:***
