@@ -38,5 +38,4 @@ The internet is a complex system of interconnected devices and infrastructure. I
 **That's how the internet works!**
 
 
-<br /><br /><br /><br />
 *This theory file has been reviewed by Nate*
