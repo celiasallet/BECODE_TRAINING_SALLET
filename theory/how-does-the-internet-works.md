@@ -1,4 +1,4 @@
-### How Does the Internet Work?
+# How Does the Internet Work?
 
 ***Fact: The internet is often visualized as a "cloud," but in reality, it is a vast network of physical wires, cables, and data centers around the world.***
 
