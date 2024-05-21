@@ -1,4 +1,4 @@
-### How Does the Internet Work?
+# How Does the Internet Work?
 
 ***Fact: The internet is often visualized as a "cloud," but in reality, it is a vast network of physical wires, cables, and data centers around the world.***
 
@@ -19,7 +19,7 @@
 
 ## Data Transmission:
 
-**Packet Switching:** Information sent over the internet is broken down into smaller pieces called packets. These packets travel independently across the network through various routes and are reassembled at their destination.
+**Packet Switching:** The information sent over the internet is broken down into smaller pieces called packets. These packets travel independently across the network through various routes and are reassembled at their destination.
 **Routers:** Routers are devices that direct packets through the most efficient paths on the internet. They check the destination IP address of each packet and forward it accordingly, often passing through multiple routers before reaching the final destination.
 
 ***Example - Sending an Email:***
@@ -36,3 +36,6 @@
 The internet is a complex system of interconnected devices and infrastructure. It relies on physical connections, IP addresses, domain names, ISPs, and a method of data transfer called packet switching to ensure that information travels efficiently and reaches the correct destination.
 
 **That's how the internet works!**
+
+
+*This theory file has been reviewed by Nate*
