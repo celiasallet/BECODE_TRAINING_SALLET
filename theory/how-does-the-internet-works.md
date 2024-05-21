@@ -1,4 +1,4 @@
-### How Does the Internet Work?
+# How Does the Internet Work?
 
 ***Fact: The internet is often visualized as a "cloud," but in reality, it is a vast network of physical wires, cables, and data centers around the world.***
 
@@ -36,3 +36,7 @@
 The internet is a complex system of interconnected devices and infrastructure. It relies on physical connections, IP addresses, domain names, ISPs, and a method of data transfer called packet switching to ensure that information travels efficiently and reaches the correct destination.
 
 **That's how the internet works!**
+
+
+<br /><br /><br /><br />
+*This theory file has been reviewed by Nate*
